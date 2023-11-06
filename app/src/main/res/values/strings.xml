@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="giga">Giganotosaurio</string>
+    <string name="rex">Tyrannosaurus Rex</string>
+    <string name="para">Parasaur</string>
+    <string name="stego">Stegosaur</string>
+    <string name="trike">Triceratops</string>
+    <string name="pachi">Pachirinosaur</string>
+    <string name="previous_button">Anterior</string>
+    <string name="next_button">Siguiente</string>
+</resources>
